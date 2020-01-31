@@ -1,0 +1,13 @@
+.tile {
+    width: 30%;
+    height: 150px;
+    font-size: 60px;
+    background: teal;
+    border: 8px solid skyblue;
+    display: inline-block;
+    text-align: center;
+    line-height: 150px;
+}
+p {
+    text-align: center;
+}
